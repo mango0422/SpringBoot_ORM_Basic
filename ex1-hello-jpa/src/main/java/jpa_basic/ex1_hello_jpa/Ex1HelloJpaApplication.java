@@ -1,4 +1,4 @@
-package jpabasic.ex1hellojpa;
+package jpa_basic.ex1_hello_jpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

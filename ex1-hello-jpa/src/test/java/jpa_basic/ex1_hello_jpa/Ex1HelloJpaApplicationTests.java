@@ -1,4 +1,4 @@
-package jpabasic.ex1hellojpa;
+package jpa_basic.ex1_hello_jpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
